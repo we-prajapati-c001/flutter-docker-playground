@@ -68,7 +68,7 @@ platform :android do
     )
 
     prepare_output_files(
-      build_type: 
+      build_type: build_type
     )
   end
 
